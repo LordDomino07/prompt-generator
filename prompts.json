@@ -1,0 +1,202 @@
+{
+  "referencia_alap": {
+    "4 Képes Referencia Beállítás": "Use Reference @Image 1 for her face and head: keep her exact face, facial features, profile, eye color, skin tone, hair color, and hairstyle. Use Reference @Image 2 for her body: keep her exact body proportions and physical build. It shouldn't have an artificial intelligence feel; it should be lifelike and natural.\n\nUse Reference @Image 3 for the environment: precisely copy all background details, including the architectural/landscape layout, spatial composition, textures, colors, background objects, foliage, and surrounding elements down to the finest detail.\n\nUse Reference @Image 4 for her outfit: replicate the exact clothing items, fabric material, fabric texture, seams, fit, cuts, transparency levels, folds, and colors. Every detail of the outfit must match Reference @Image 4 precisely.\n\nRemove all jewelry, text, and watermarks.", 
+   "3 Képes Referencia Beállítás": "Use Reference @Image 1 for her face and head: keep her exact face, facial features, profile, eye color, skin tone, hair color, and hairstyle. Use Reference @Image 2 for her body: keep her exact body proportions and physical build. It shouldn't have an artificial intelligence feel; it should be lifelike and natural. \n\nUse Reference @Image 3 for her outfit: replicate the exact clothing items, fabric material, fabric texture, seams, fit, cuts, transparency levels, folds, and colors. Every detail of the outfit must match Reference @Image 3 precisely.\n\nRemove all jewelry, text, and watermarks.", 
+   "5 Képes Referencia Beállítás, külön ruházat és cipő": "Use Reference @Image 1 for her face and head: keep her exact face, facial features, profile, eye color, skin tone, hair color, and hairstyle. Use Reference @Image 2 for her body: keep her exact body proportions and physical build. It shouldn't have an artificial intelligence feel; it should be lifelike and natural. \n\nUse Reference @Image 3, @Image 4 and @Image 5 for her outfit: replicate the exact clothing items, fabric material, fabric texture, seams, fit, cuts, transparency levels, folds, and colors. outerwear is @Image 3, underwear is @Image 4 and footwear @Image 5\n\nRemove all jewelry, text, and watermarks."
+  }, 
+
+  "Háttér környezet": { 
+    "Nincs megadva": "",
+        "Professzionális Portréstúdió": "natural studio portrait background, soft neutral gray backdrop, professional photo studio setting, 85mm lens effect",
+        "Luxus Penthouse Belső": "interior of a high-end modern penthouse, large floor-to-ceiling windows, minimalist luxury furniture blurred in background, highly detailed texture",
+        "Építészeti Műterem": "loft apartment interior, exposed raw concrete wall, large industrial black-framed window, potted monstera plant, realistic interior architecture",
+        "Városi Utca": "urban city street, asphalt road, buildings and storefronts, shot on 35mm lens",
+        "Utcakép": "charming cobblestone European alleyway, rustic brick facades, blurred background, crisp realistic setting",
+        "Modern Irodanegyed": "outside a modern glass skyscraper complex, reflections on glass facades, subtle depth of field, corporate urban setting",
+        "Fenyves": "pine forest setting, tall tree branches, soft pine needle ground, natural depth of field",
+        "Tengerparti Sziklák": "coastal edge, rocky shore, ocean view, crashing waves in distance, natural color temperature",
+        "Park": "picturesque park path lined with trees, fallen leaves on ground, outdoor photography",
+        "Búzamező": "open wheat field landscape, natural wheat texture",
+        "Aesthetic Kávézó Belső": "interior of an aesthetic modern coffee shop, wooden table texture, bokeh of cafe seating in background",
+        "Könyvtár / Olvasóterem": "classic university library, tall dark mahogany bookshelves full of books blurred in background, quiet cozy atmosphere",
+        "Tetőterasz / Cocktail Lounge": "exclusive rooftop lounge, city view in background, realistic party atmosphere",
+        "Hegyi Ház Terasza": "outdoor wooden deck of a mountain cabin, frosted trees in background, realistic texture",
+        "Botanikus Üvegház": "inside a glass greenhouse, tropical lush green foliage, glass panes, realistic depth and shadows"
+  },
+
+  "Haj stílus": {
+    "Nincs megadva": "",
+    "Göndör Haj": "wearing voluminous natural curly hair, defined bouncy curls, realistic strand detail, natural shine and texture",
+    "Vasalt / Egyenes Haj": "wearing sleek pin-straight hair, silky smooth texture, glossy healthy shine, sharp neat ends",
+    "Magas Copf a Fejtetőn Hátul": "hairstyle with a high ponytail pulled back neatly at the crown, smooth slicked-back front, flowing textured hair in the back",
+    "Két Copf": "hairstyle with cute high pigtails on both sides, neat parting line, natural hair movement and soft strands framing the face",
+    "Összefonva (Klasszikus Fonat)": "hairstyle with a single thick neat braid, detailed interwoven strands, realistic hair weave texture",
+    "Több Fonat (Cornrows / Braids)": "hairstyle with multiple intricate tight braids, neat clean scalp parting lines, detailed braided texture along the head",
+    "Rasztahaj (Dreadlocks)": "wearing authentic dreadlocks, detailed matted rope-like locs texture, realistic natural volume and individual strand details",
+    "Hullámos Haj (Beach Waves)": "wearing effortless beach wavy hair, soft loose waves, natural textured movement, subtle highlights",
+    "Francia Fonás": "stylish French braid hairstyle, elegantly woven along the back of the head, soft delicate volume with loose strands",
+    "Kócos Konty (Messy Bun)": "wearing a casual high messy bun, loose strands of hair framing the face, effortless relaxed hair texture",
+    "Afro Frizura": "wearing a full voluminous natural afro hairstyle, dense cloud-like texture, rounded shape with intricate small curl details",
+    "Félig Feltűzött Haj": "half-up half-down hairstyle, top section pulled back neatly while the rest falls softly over the shoulders",
+    "Rövid Pixie Vágás": "chic short pixie cut, textured layers on top, clean soft tapered edges around the ears and neck",
+    "Rövid Bob / Boci Frizura": "stylish classic bob hairstyle cut straight at jaw-length, clean sharp edges, soft natural framing around the face",
+    "Dupla Konty (Space Buns)": "playful double space buns on top of the head, neat center part, cute voluminous mini buns with loose face-framing tendrils"
+  },
+
+  "hangulat_es_kisugarzas": {
+    "Nincs megadva": "",
+    "Vidám / Mosolygós": "Cheerful and happy expression, warm genuine smile, bright sparkling eyes, joyful and playful mood.",
+    "Félénk / Visszahúzódó": "Shy and timid aura, gentle soft gaze, modest tilt of the head, subtle endearing blush, innocent expression.",
+    "Csábító / Szenvedélyes": "Seductive and alluring look, intense captivating eye contact, subtle mysterious smirk, confident sultry expression.",
+    "Imponáló / Magabiztos": "Imposing and confident presence, strong posture, direct bold gaze, empowering and elegant aura.",
+    "Melankolikus / Töprengő": "Thoughtful and melancholic mood, soft distant gaze, quiet dreamy expression, calm emotional depth.",
+    "Játékos / Flörtölő": "Playful and flirtatious energy, charming wink or teasing smile, dynamic and lively expression.",
+    "Titokzatos / Rejtélyes": "Mysterious and intriguing vibe, deep calm expression, subtle unreadable gaze, intense quiet focus.",
+    "Nyugodt / Békés": "Serene and peaceful aura, relaxed facial features, soft gentle expression, tranquil and calm composure.",
+    "Elegáns / Hűvös (High Fashion)": "Chic high-fashion expression, cool detached gaze, relaxed lips, sophisticated and polished editorial look."
+  },
+
+  "intenzitas_szuro": {
+    "Nincs megadva": "",
+    "Cute (Aranyos / Kedves)": "Cute and sweet mood, innocent expression, gentle light smile, wholesome and endearing charm.",
+    "Flirty (Flörtölős / Játékos)": "Flirty and playful vibe, charming side glance, teasing smirk, engaging and lively allure.",
+    "Sensual (Szenvedélyes / Érzéki)": "Sensual and captivating atmosphere, intimate moody lighting, soft alluring gaze, subtle and elegant provocative charm.",
+    "Bold (Merész / Dögös)": "Bold and confident intensity, striking alluring posture, fierce captivating eye contact, powerful and daring aura.",
+    "Explicit (Kifejezetten merész / 18+)": "Explicitly bold and revealing style, provocative posture, intense intimate mood, striking high-intensity presentation."
+  },
+
+  "kamera szög": {
+    "Nincs megadva": "",
+    "Egész alakos (Teljes alak)": "Full-body shot, wide framing, capturing the subject from head to toe showing her complete silhouette and outfit.",
+    "Közeli (Portré)": "Close-up portrait shot, tightly framed on her face and shoulders, capturing fine facial details, eye expression, and hair texture.",
+    "Középplán (Mellkasszint / Derékszint)": "Medium shot, framed from the waist up, focusing on her upper body, outfit details, and expression while maintaining background context.",
+    "Amerikai plán (Térdtől felfelé)": "Three-quarter shot, cowboy shot, framed from above the knees up, highlighting both her outfit and posture clearly.",
+    "Hátulról készített fotó": "Shot from behind, rear view perspective, capturing her back, hair, silhouette, and outfit from the rear angle.",
+    "Alulról fényképezett (Drámai magasság)": "Low-angle shot, camera positioned below eye level looking slightly upwards, giving the subject an imposing, elegant, and tall presence.",
+    "Felülről fényképezett (Madártávlat)": "High-angle shot, camera positioned above looking down at her, creating an intimate and unique perspective.",
+    "Távoli képsík (Környezettel együtt)": "Extreme long shot, wide-angle cinematic framing, subject placed naturally in the environment with a rich view of the background scenery.",
+    "Szemmagasságból (Klasszikus fotó)": "Eye-level angle, neutral camera perspective, head-on view creating a natural and realistic portrait.",
+    "Profilból (Oldalról)": "Side profile view, capturing her silhouette, side profile face, hair, and outfit from the side.",
+    "Háromnegyedes profilszög (3/4 Angle)": "Three-quarter view shot, subtle angle slightly turned away from the camera for a dynamic and flattering composition."
+  },
+
+  "póz_és_cselekmény": {
+    "Nincs megadva": "",
+    "Álló - Természetes": "Standing gracefully in a relaxed, natural posture, one weight-bearing leg, looking directly at the camera with a confident expression.",
+    "Álló - Modelli / Elegáns": "Fashion model pose, standing tall with a slight hip tilt, subtly shifting body weight to highlight her silhouette and outfit.",
+    "Ülő - Laza / Kényelmes": "Sitting comfortably with a relaxed posture, crossed legs, resting her arms naturally, looking softly towards the viewer.",
+    "Ülő - Elegáns": "Sitting upright with elegant posture, knees together or subtly crossed, hands gently folded in her lap.",
+    "Fekvő - Hason fekvő": "Lying on her stomach, resting her chin on her hands or elbows, looking naturally into the camera lens with a soft smile.",
+    "Fekvő - Oldalt fekvő": "Lying gracefully on her side, resting her head on one arm, creating a relaxed and flowing silhouette.",
+    "Fekvő - Hátón fekvő": "Lying down on her back, relaxed pose, looking up towards the camera with a soft and natural expression.",
+    "Guggoló / Térdelő": "Crouching or kneeling gently with balance, one knee raised slightly, creating a dynamic and modern fashion pose.",
+    "Sétáló / Mozgásban": "Walking forward naturally, captured mid-stride in candid motion, hair blowing softly, giving a spontaneous lifestyle feel.",
+    "Mögé néző / Visszaforduló": "Turning her head back to look over her shoulder towards the camera, subtle side-body angle.",
+    "Hajbababráló / Kezek a hajban": "Gently running her fingers through her wavy hair with one hand, creating a casual, effortless, and intimate moment.",
+    "Zsebre tett kézzel": "Standing casually with her hands resting in her pockets, creating an effortless street-style look."
+  },
+
+  "időjárás_és_világítás_extra": {
+    "Nincs megadva": "",
+    "Esős időjárás": "Rainy weather, raindrops visible in the air, wet ground with realistic water reflections, dramatic overcast atmospheric mood.",
+    "Szakadó eső / Vihar": "Heavy downpour, dramatic thunderstorm mood, dark rain clouds, visible water drops and splashes on skin and surfaces.",
+    "Napsütéses / Ragyogó": "Bright sunny day, direct natural sunlight, vivid vibrant colors, sharp clean highlights and realistic natural shadows.",
+    "Borult / Felhős": "Overcast sky, soft diffused lighting, gentle muted colors, smooth skin illumination without harsh direct shadows.",
+    "Ködös / Párás": "Mysterious misty atmospheric fog, soft moody air, dreamlike hazy lighting, gently faded background elements.",
+    "Naplemente (Golden Hour)": "Golden hour lighting, warm golden-orange sunset glow, long dramatic shadows, soft backlight kissing the edges of her silhouette.",
+    "Napfelkelte": "Dawn atmosphere, cool soft morning light blending into warm early sunlight, fresh crisp morning mood.",
+    "Szürkület (Blue Hour)": "Blue hour twilight, deep blue sky tones, dramatic cool ambient lighting, cozy and atmospheric evening mood.",
+    "Telihold / Éjszakai": "Nighttime setting illuminated by a bright full moon, glowing cool moonlight, dark starry sky, cinematic night lighting.",
+    "Néhány felhős / Szórt napfény": "Partly cloudy sky, soft sunlight filtering through scattered clouds, realistic natural outdoor lighting."
+  }, 
+
+  "évszakok": {
+        "Nincs megadva": "",
+        "Tavasz (Friss, virágzó természet)": "spring season, blooming flowers, fresh green foliage, vibrant spring colors",
+        "Nyár (Ragyogó meleg évszak)": "summer season, bright sunny atmosphere, lush green environment, vibrant warm daylight",
+        "Ősz (Színes falevelek, aranyló tónusok)": "autumn season, vibrant fall foliage, golden orange and red fallen leaves, cozy crisp air",
+        "Tél (Havas, deres táj)": "winter season, snow-covered landscape, delicate frost, crisp cold atmosphere"
+    },
+
+  "Kamera beállítások": {
+    "Nincs megadva": "",
+    "elmosott háttér": "shot on 85mm f/1.8 lens",
+    "rendkívül részletgazdag textúrák": "shot on Hasselblad medium format, ultra-detailed textures",
+    "természetes fények és árnyékok": "photographed with natural lighting, soft shadows, realistic color grading", 
+    "telefonos kép": "Amateur photo aesthetic. Like any phone photo, she and everything behind her are mostly in focus, with no blurred background.", 
+    "Selfie kamera": "grainy iphone camera quality. low exposure, intimate candid vibe. handheld iphone front camera selfie, POV self-taken photo, front-facing, camera held at arm's length. night time vibe, low light." 
+  }, 
+
+"Öltözet típusa (Egybe vagy Külön)": {
+    "Nincs megadva": "",
+    "Egybe ruha (Dress / One-piece)": "wearing a one-piece dress",
+    "Külön felső és alsó": "wearing separate top and bottom clothing"
+  },
+
+  "Egybe ruha szín": {
+    "Nincs / Egyéb": "",
+    "Klasszikus Fekete": "wearing solid classic black clothing, rich deep black color, subtle fabric weave texture, elegant and timeless shadow tones",
+    "Hófehér": "wearing crisp snow white clothing, clean bright white color, natural fabric highlights, soft material texture",
+    "Sötétkék (Navy Blue)": "wearing deep navy blue clothing, dark matte blue tone, refined fabric texture, rich color depth",
+    "Bézs és Krémszín": "wearing warm beige and cream clothing, soft neutral sand tones, natural linen texture, soft subtle highlights",
+    "Smaragdzöld": "wearing deep emerald green clothing, rich jewel tone green, luxurious fabric sheen, intense vibrant shading",
+    "Bordó (Burgundy)": "wearing deep burgundy wine red clothing, dark rich crimson tone, subtle velvet fabric texture, warm shadows",
+    "Pasztell Rózsaszín": "wearing soft pastel blush pink clothing, gentle light pink hue, smooth fabric finish, airy bright aesthetic"
+  },
+
+  "Felső ruha szín": {
+    "Nincs / Egyéb": "",
+    "Klasszikus Fekete felső": "wearing a solid classic black top, rich deep black color, subtle fabric texture",
+    "Hófehér felső": "wearing a crisp snow white top, clean bright white color, natural fabric highlights",
+    "Sötétkék felső": "wearing a deep navy blue top, dark matte blue tone, refined fabric texture",
+    "Bézs és Krémszín felső": "wearing a warm beige and cream top, soft neutral sand tones",
+    "Smaragdzöld felső": "wearing a deep emerald green top, rich jewel tone green",
+    "Bordó felső": "wearing a deep burgundy wine red top, dark rich crimson tone",
+    "Pasztell Rózsaszín felső": "wearing a soft pastel blush pink top, gentle light pink hue"
+  },
+
+  "Alsó ruha szín": {
+    "Nincs / Egyéb": "",
+    "Klasszikus Fekete nadrág/szoknya": "pairing with solid classic black bottoms, rich deep black color, subtle texture",
+    "Hófehér nadrág/szoknya": "pairing with crisp snow white bottoms, clean bright white color",
+    "Sötétkék nadrág/szoknya": "pairing with deep navy blue bottoms, dark matte blue tone",
+    "Bézs és Krémszín nadrág": "pairing with warm beige and cream bottoms, soft neutral sand tones",
+    "Farmer (Blue Jeans)": "pairing with classic blue denim jeans, authentic denim texture, contrast stitching, natural wash",
+    "Smaragdzöld nadrág": "pairing with deep emerald green bottoms, rich jewel tone green",
+    "Bordó nadrág": "pairing with deep burgundy wine red bottoms, dark rich crimson tone"
+  },
+
+  "Cipő típus": {
+    "Nincs / Nem látszik": "",
+    "Sneaker (Laza edzőcipő)": "wearing casual sneakers with a detailed rubber sole and lifestyle design",
+    "Bokacsizma / Bokacipő": "wearing elegant ankle boots with a subtle heel and polished texture",
+    "Magassarkú cipő (High Heels)": "wearing elegant high heels with a sophisticated slender heel and glossy finish",
+    "Lapos balerina cipő": "wearing flat slip-on shoes with a clean and minimal design",
+    "Fűzős félcipő (Oxford / Derby)": "wearing classic lace-up formal shoes with a structured leather design",
+    "Túrabakancs": "wearing sturdy outdoor hiking boots with a rugged texture and durable laces",
+    "Nyári szandál": "wearing strappy summer sandals with an open-toe design",
+    "Magas szárú csizma": "wearing tall knee-high boots with a fitted shaft and sleek silhouette",
+    "Mokaszin (Loafers)": "wearing classic slip-on loafers with neat stitched detailing",
+    "Sportos futócipő": "wearing dynamic athletic running shoes with a modern mesh texture"
+  },
+
+  "Cipő szín és anyag": {
+    "Nincs megadva (Alap szín)": "",
+    "Klasszikus Fekete": "in solid classic black color, rich deep tone",
+    "Hófehér": "in clean crisp white color, bright highlights",
+    "Sötétkék (Navy)": "in deep navy blue color",
+    "Bézs és Krémszín": "in warm neutral beige and cream color",
+    "Csokoládébarna": "in rich chocolate brown color",
+    "Bordó / Piros": "in deep burgundy red color",
+    "Zöld": "in rich forest green color",
+    "Mély Szürke": "in neutral charcoal gray color",
+    "Ezüst / Metál": "in a shiny metallic finish",
+    "Arany / Bronz": "in a warm metallic gold finish"
+  },
+
+  "Öltözet": {
+    "Nincs megadva": "",
+    "Ruhában": "fully clothed, wearing the specified outfit from the clothing reference image.",
+    "Ruha nélkül": "nude, without any clothing, showing bare skin."
+  }
+}
